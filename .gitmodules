@@ -1,0 +1,4 @@
+[submodule "modules/ssl/testssl.sh"]
+	path = modules/ssl/testssl.sh
+	url = https://github.com/drwetter/testssl.sh
+	branch = 3.0
